@@ -3,7 +3,7 @@
 I want to become a Front-end developer! I am committed to serious work, professional growth and career development in the next 2 years. This is important to me because I want to help my friends and launch a project with them across the country and the nearest neighbors. I hope to implement a lot of my ideas in it.
 
 <div align="center">
-![sidebar-test-img-cat2-640x404](https://github.com/kkirillovv/kkirillovv/assets/122016948/ca5d04fb-1dc2-45ae-aeaa-53a8ba35c7b6)
+  <img src="https://github.com/kkirillovv/kkirillovv/assets/122016948/ca5d04fb-1dc2-45ae-aeaa-53a8ba35c7b6" alt="The project Uchenik.Ru" />
 </div>
 
 <!--
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <div align="right">
   <p align="right">
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkkirillovv&countColor=%23f0b354)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkkirillovv)
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkkirillovv&countColor=%23f0b354" alt="Visitors Badge" />
   </p>
 </div>
-
