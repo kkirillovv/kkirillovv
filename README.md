@@ -2,6 +2,8 @@
 
 I want to become a Front-end developer! I am committed to serious work, professional growth and career development in the next 2 years. This is important to me because I want to help my friends and launch a project with them across the country and the nearest neighbors. I hope to implement a lot of my ideas in it.
 
+![sidebar-test-img-cat2-640x404](https://github.com/kkirillovv/kkirillovv/assets/122016948/ca5d04fb-1dc2-45ae-aeaa-53a8ba35c7b6)
+
 <!--
 **kkirillovv/kkirillovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
