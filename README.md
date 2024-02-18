@@ -53,6 +53,7 @@ The dream, to be successful in what I want to do, to me right now, that's all th
 ## 📫 How to reach me
 <a href="mailto:kkirillovv@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/My%20e--mail-grey?logo=Gmail&logoColor=black&labelColor=f0b354"></a>
 <a href="https://t.me/kvkirillov" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-grey?logo=Telegram&logoColor=black&labelColor=f0b354"></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/Habr%20career-grey?logo=habr&logoColor=black&labelColor=f0b354">
 
 <div align="right">
   <p align="right">
