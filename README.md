@@ -11,23 +11,25 @@ Here are some ideas to get you started:
 -->
 
 ## About me
+<div align="center">
+  <img src="https://github.com/kkirillovv/kkirillovv/assets/122016948/ca9c3c97-d0e9-4751-aaed-3bfad999383falt="Who am I?" />
+</div>
 
 I want to become a Front-end developer! I am committed to serious work, professional growth and career development in the next 2 years. This is important to me because I want to help my friends and launch a project with them across the country and the nearest neighbors. I hope to implement a lot of my ideas in it.
 The dream, to be successful in what I want to do, to me right now, that's all that matters.
 
 ## My skills
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Web%20development-blue?logoColor=black" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/BEM-blue?logoColor=black" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?logo=HTML5&logoColor=black" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=black" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/Adaptive%20layout-blue?logoColor=black" height=30>
-  
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=black" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=React&logoColor=black" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/Express-blue?logo=Express&logoColor=black" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=black" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue?logo=GitHub&logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Web%20development-blue?logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/BEM-blue?logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?logo=HTML5&logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Adaptive%20layout-blue?logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=React&logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express-blue?logo=Express&logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=black" height=30>
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue?logo=GitHub&logoColor=black" height=30>
 </div>
 
 ## 🔭 I’m currently working on
