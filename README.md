@@ -16,10 +16,16 @@ I want to become a Front-end developer! I am committed to serious work, professi
 The dream, to be successful in what I want to do, to me right now, that's all that matters.
 
 ## My skills
+<img alt="Static Badge" src="https://img.shields.io/badge/Web%20development-blue?logoColor=black" width=100>
+<img alt="Static Badge" src="https://img.shields.io/badge/BEM-blue?logoColor=black" width=100>
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?logo=HTML5&logoColor=black" width=100>
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=black" width=100>
+<img alt="Static Badge" src="https://img.shields.io/badge/Adaptive%20layout-blue?logoColor=black" width=100>
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=black" width=100>
-
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=React&logoColor=black" width=100>
+<img alt="Static Badge" src="https://img.shields.io/badge/Express-blue?logo=Express&logoColor=black" width=100>
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=black" width=100>
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue?logo=GitHub&logoColor=black" width=100>
 
 ## 🔭 I’m currently working on
 <div align="center">
