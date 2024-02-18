@@ -51,6 +51,9 @@ The dream, to be successful in what I want to do, to me right now, that's all th
 </div>
 
 ## 📫 How to reach me
+![Static Badge](https://img.shields.io/badge/My%20e--mail-grey?logo=Gmail&logoColor=black&labelColor=f0b354)
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-grey?logo=Telegram&logoColor=black&labelColor=f0b354">
+![Static Badge](https://img.shields.io/badge/Telegram-grey?logo=Telegram&logoColor=black&labelColor=f0b354)
 
 
 <div align="right">
