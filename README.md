@@ -17,16 +17,17 @@ The dream, to be successful in what I want to do, to me right now, that's all th
 
 ## My skills
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Web%20development-blue?logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/BEM-blue?logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?logo=HTML5&logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/Adaptive%20layout-blue?logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=React&logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/Express-blue?logo=Express&logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=black" height=20>
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue?logo=GitHub&logoColor=black" height=20>
+<img alt="Static Badge" src="https://img.shields.io/badge/Web%20development-blue?logoColor=black" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/BEM-blue?logoColor=black" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?logo=HTML5&logoColor=black" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=black" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/Adaptive%20layout-blue?logoColor=black" height=30>
+  
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=black" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=React&logoColor=black" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/Express-blue?logo=Express&logoColor=black" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=black" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue?logo=GitHub&logoColor=black" height=30>
 </div>
 
 ## 🔭 I’m currently working on
